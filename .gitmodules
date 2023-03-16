@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "betaclust"]
+	path = betaclust
+	url = https://github.com/koyelucd/betaclust
+	shallow = true
+	registered = true
