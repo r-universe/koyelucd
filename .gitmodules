@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "betaHMM"]
-	path = betaHMM
-	url = https://github.com/koyelucd/betahmm
 [submodule "betaclust"]
 	path = betaclust
 	url = https://github.com/koyelucd/betaclust
